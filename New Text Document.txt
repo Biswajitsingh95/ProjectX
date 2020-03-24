@@ -1,14 +1,8 @@
-Hey
-Team we will create our first PR
+create a PR :-
+-----------------------------------------
 
-The flow is something like this
+(1) Name - Biswajit singh
+(2) Email - singh.bishwajit95@gmail.com
+(3) fav song - in the end (linkin park)
 
-Company-cloud  personal-cloud  local
-
-
-
-update changes in local add commit
-
-push to personal cloud
-
-create a PR
+------------------------------------------
