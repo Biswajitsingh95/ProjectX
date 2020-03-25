@@ -1,14 +1,12 @@
-Hey
-Team we will create our first PR
-
-The flow is something like this
-
-Company-cloud  personal-cloud  local
 
 
+			    ---> create a PR <---
 
-update changes in local add commit
+------------------------------------------------------------------------
 
-push to personal cloud
+	1. Name - Biswajit Singh
+	2. Email - singh.bishwajit95@gmail.com
+	3. fav song - In the end(Linkin park)
 
-create a PR
+
+--------------------------------------------------------------------------
